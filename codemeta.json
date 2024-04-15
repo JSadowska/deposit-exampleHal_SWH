@@ -1,11 +1,11 @@
 {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "type": "SoftwareSourceCode",
+    "@type": "SoftwareSourceCode",
     "applicationCategory": "SHS",
     "author": [
         {
             "id": "http://orcid.org/0000-0002-1825-peter",
-            "type": "Person",
+            "@type": "Person",
             "affiliation": {
                 "type": "Organization",
                 "name": "Lille"
@@ -15,7 +15,7 @@
             "givenName": "Peter"
         },
         {
-            "type": "Person",
+            "@type": "Person",
             "email": "test@inria.fr",
             "familyName": "Darling",
             "givenName": "Wendy"
