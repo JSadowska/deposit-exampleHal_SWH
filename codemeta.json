@@ -4,26 +4,31 @@
     "applicationCategory": "SHS",
     "author": [
         {
+            "id": "http://orcid.org/0000-0002-1825-peter",
             "type": "Person",
             "affiliation": {
                 "type": "Organization",
                 "name": "Lille"
             },
+            "email": "peter@gmails.com",
             "familyName": "Pan",
             "givenName": "Peter"
         }
     ],
     "codeRepository": "https://github.com/JSadowska/deposit-exampleHal_SWH",
     "contributor": {
+        "id": "http://orcid.org/0000-0002-1825-wendy",
         "type": "Person",
         "affiliation": {
             "type": "Organization",
             "name": "Lille"
         },
+        "email": "wendy@gmails.com",
         "familyName": "Darling",
         "givenName": "Wendy"
     },
     "dateCreated": "2024-04-24",
+    "dateModified": "2024-04-18",
     "description": "Exemple à déposer",
     "funder": {
         "type": "Organization",
@@ -32,7 +37,9 @@
     "keywords": "enquête",
     "license": "https://spdx.org/licenses/AGPL-3.0",
     "name": "deposit-exampleHal_SWH",
+    "operatingSystem": "Linux",
     "programmingLanguage": "Python",
+    "runtimePlatform": ".NET",
     "version": "1.0.0",
     "developmentStatus": "active"
 }
