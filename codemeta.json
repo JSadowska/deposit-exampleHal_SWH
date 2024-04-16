@@ -1,40 +1,53 @@
 {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "type": "SoftwareSourceCode",
-    "applicationCategory": "SHS",
+    "applicationCategory": "Computer Science",
     "author": [
         {
-            "id": "http://orcid.org/0000-0002-1825-peter",
+            "id": "http://0000-Orcid",
             "type": "Person",
             "affiliation": {
                 "type": "Organization",
-                "name": "Lille"
+                "name": "Inria"
             },
-            "email": "peter@gmails.com",
+            "email": "peter.pan@gmail.com",
             "familyName": "Pan",
             "givenName": "Peter"
         },
         {
             "type": "Person",
-            "email": "test@inria.fr",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Inria"
+            },
+            "email": "wendy@gmail.com",
             "familyName": "Darling",
             "givenName": "Wendy"
         }
     ],
     "codeRepository": "https://github.com/JSadowska/deposit-exampleHal_SWH",
-    "dateCreated": "2024-04-24",
-    "dateModified": "2024-04-18",
-    "description": "Exemple à déposer",
+    "dateCreated": "2024-04-16",
+    "dateModified": "2024-04-15",
+    "description": "dépôt test2 description",
     "funder": {
         "type": "Organization",
         "name": "ANR"
     },
-    "keywords": "enquête",
+    "keywords": [
+        "software",
+        "test",
+        "AI"
+    ],
     "license": "https://spdx.org/licenses/AGPL-3.0",
-    "name": "deposit-exampleHal_SWH",
+    "name": "dépôt test 2",
     "operatingSystem": "Linux",
-    "programmingLanguage": "Python",
+    "programmingLanguage": [
+        "Python",
+        "java"
+    ],
+    "relatedLink": "https://github.com/JSadowska/deposit-template",
     "runtimePlatform": ".NET",
+    "softwareRequirements": "Python 3.4",
     "version": "1.0.0",
     "developmentStatus": "active"
 }
