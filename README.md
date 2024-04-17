@@ -1,7 +1,6 @@
 # deposit-exampleHal_SWH
 
 # Repository template for archival
-# The wonderland App
 
 Name your project or package, because the repository name isn't enough.
 
