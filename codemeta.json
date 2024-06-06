@@ -1,89 +1,41 @@
 {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "type": "SoftwareSourceCode",
-    "applicationCategory": "Computer science",
+    "applicationCategory": "Computer Science",
     "author": [
         {
-            "id": "_:author_1",
+            "id": "http://orcid.org/0000-0003-0630-5633",
             "type": "Person",
             "affiliation": {
                 "type": "Organization",
-                "name": "Inria"
+                "name": "CNRS"
             },
-            "email": "peter.pan@inria.fr",
-            "familyName": "pan",
-            "givenName": "Peter"
+            "email": "peter.pan3@mail.com",
+            "familyName": "Pan 3",
+            "givenName": "Peter "
         },
         {
             "type": "schema:Role",
-            "schema:author": "_:author_1",
-            "schema:roleName": "Developer"
-        },
-        {
-            "id": "http://orcid.org/0000-0003-0630-5633 ",
-            "type": "Person",
-            "affiliation": {
-                "type": "Organization",
-                "name": "Zenith"
-            },
-            "familyName": "Nivault",
-            "givenName": "Estelle"
-        },
-        {
-            "type": "schema:Role",
-            "schema:author": "http://orcid.org/0000-0003-0630-5633 ",
-            "schema:roleName": "XXXXX"
+            "schema:author": "http://orcid.org/0000-0003-0630-5633",
+            "schema:endDate": "2024-06-06",
+            "schema:roleName": "Developer",
+            "schema:startDate": "2024-06-03"
         }
     ],
-    "codeRepository": "https://github.com/JSadowska/deposit-exampleHal_SWH",
-    "contributor": {
-        "id": "_:contributor_1",
-        "type": "Person",
-        "affiliation": {
-            "type": "Organization",
-            "name": "Inrae"
-        },
-        "familyName": "Contributor Nom",
-        "givenName": "Contributor Prénom"
-    },
-    "dateCreated": "2023-02-05",
-    "dateModified": "2024-05-17",
-    "datePublished": "2023-02-04",
-    "description": "Description",
-    "downloadUrl": "https://download_url",
-    "funder": {
-        "type": "Organization",
-        "name": "ANR"
-    },
-    "identifier": "10.5125.XXXXXXX",
-    "isPartOf": "http://test_is_part_of",
-    "keywords": [
-        "keyword1",
-        "keyword2"
-    ],
+    "dateCreated": "2023-12-12",
+    "dateModified": "2024-06-06",
+    "description": "Description new",
+    "keywords": "IA 1",
     "license": "https://spdx.org/licenses/AGPL-3.0",
-    "name": "Software name",
-    "operatingSystem": "Operating system",
+    "name": "test auteurs new",
+    "operatingSystem": "Operation system",
     "programmingLanguage": "Java",
-    "relatedLink": "https://github.com/moranegg/deposit-template",
-    "schema:releaseNotes": "Release notes",
-    "schema:review": {
-        "type": "schema:Review",
-        "schema:reviewAspect": "Review aspect",
-        "schema:reviewBody": "Review body"
-    },
     "runtimePlatform": "Runtime Platform",
-    "softwareRequirements": "Other requirements",
-    "version": "1.01",
-    "contIntegration": "https://continuous_integration",
+    "version": "2.2.12",
+    "contIntegration": "https://www.Continuous_integration.git",
     "codemeta:continuousIntegration": {
-        "id": "https://continuous_integration"
+        "id": "https://www.Continuous_integration.git"
     },
     "developmentStatus": "active",
-    "funding": "Europe funding",
-    "codemeta:isSourceCodeOf": {
-        "id": "deposit-exampleHal_SWH Public"
-    },
-    "issueTracker": "https://issue_tracker",
-    "referencePublication": "https://www.reference_publication.com"
+    "funding": "IA 2"
 }
