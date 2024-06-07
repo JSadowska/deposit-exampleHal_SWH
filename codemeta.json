@@ -16,10 +16,7 @@
         },
         {
             "type": "schema:Role",
-            "schema:author": "_:author_1",
-            "schema:endDate": "2024-06-02",
-            "schema:roleName": "Developer",
-            "schema:startDate": "1999-02-02"
+            "schema:author": "_:author_1"            
         }
     ],
     "codeRepository": "https://github.com/JSadowska/deposit-exampleHal_SWH",
