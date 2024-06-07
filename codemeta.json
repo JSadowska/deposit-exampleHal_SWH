@@ -6,8 +6,20 @@
         {
             "id": "_:author_1",
             "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "INRIA"
+            },
+            "email": "testmail@mail.com",
             "familyName": "Author Name",
             "givenName": "NewTest Author"
+        },
+        {
+            "type": "schema:Role",
+            "schema:author": "_:author_1",
+            "schema:endDate": "2024-03-23",
+            "schema:roleName": "Developer",
+            "schema:startDate": "2023-02-23"
         }
     ],
     "dateCreated": "2020-12-12",
