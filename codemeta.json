@@ -20,6 +20,17 @@
             "schema:endDate": "2024-03-23",
             "schema:roleName": "Developer",
             "schema:startDate": "2023-02-23"
+        },
+        {
+            "id": "https://orcid.org/0000-0003-0630-5633",
+            "type": "Person",
+            "familyName": "Author Name2",
+            "givenName": "Author2"
+        },
+        {
+            "type": "schema:Role",
+            "schema:author": "https://orcid.org/0000-0003-0630-5633",
+            "schema:roleName": "Developer"
         }
     ],
     "dateCreated": "2020-12-12",
