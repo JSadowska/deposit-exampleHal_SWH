@@ -4,22 +4,21 @@
     "applicationCategory": "Computer Science",
     "author": [
         {
-            "id": "http://orcid.org/0000-0003-0630-5633",
+            "id": "_:author_1",
             "type": "Person",
             "affiliation": {
                 "type": "Organization",
                 "name": "CNRS"
             },
             "email": "peter.pan3@mail.com",
-            "familyName": "Pan 3",
-            "givenName": "Peter "
+            "familyName": "Pan",
+            "givenName": "Peter"
         },
         {
-            "type": "schema:Role",
-            "schema:author": "http://orcid.org/0000-0003-0630-5633",
-            "schema:endDate": "2024-06-06",
-            "schema:roleName": "Developer",
-            "schema:startDate": "2024-06-03"
+            "id": "_:author_2",
+            "type": "Person",
+            "familyName": "Darling",
+            "givenName": "Jane"
         }
     ],
     "dateCreated": "2023-12-12",
