@@ -5,14 +5,14 @@
         {
             "id": "_:author_1",
             "type": "Person",
-            "familyName": "Name5",
-            "givenName": "AuthorTest5"
+            "familyName": "Name",
+            "givenName": "AuthorTest"
         },
         {
             "id": "_:author_2",
             "type": "Person",
-            "familyName": "Name TTT5",
-            "givenName": "Author TTT5"
+            "familyName": "Name TTT",
+            "givenName": "Author TTT"
         }
     ],
     "description": "Description",
