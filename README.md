@@ -63,10 +63,13 @@ This section can also state the authors are in a seperate file.
 Refer to AUTHORS and/or CONTRIBUTORS file/s.
 
 ## See also
+Links to other projects or publications, links to datasets.
 
 ## License
 
 Refer to LICENSE file or folder for further information
+
+
 
 
 references:
